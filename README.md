@@ -62,14 +62,6 @@ The backend layer for Kronos — handling sync, data persistence, and business l
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-CR19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=0" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="left">
