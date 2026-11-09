@@ -54,7 +54,7 @@ Substitui a planilha que eu usava para precificar as peças da minha loja de imp
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Flyway` `JUnit` `Mockito` `Docker`
 
-> 🎨 Front-end em **Angular**: _em desenvolvimento_
+> 🎨 [Front-end em **Angular**](https://github.com/Fernando-CR19/Calculadora-de-Custos-de-Impressora-3D-Front): _em desenvolvimento_
 
 ---
 
